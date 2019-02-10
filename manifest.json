@@ -1,0 +1,19 @@
+{
+  "name": "Dulces ",
+  "short_name": "Dulces Garcia",
+  "description": "Dulces Garcia, vendedores de dulces.",
+  "background_color": "#fff",
+  "theme_color": "#3949AB",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [    
+    {
+      "src": "./img/iconos/Candy.png",
+      "sizes": "369x512",
+      "type": "image/png"
+    }
+  ]
+}
